@@ -17,7 +17,7 @@ I've used Power BI and Power Query to build these dashboards.
 ![image](https://user-images.githubusercontent.com/73200439/210089930-bf04fda9-556a-47e2-90ee-b74dbab75312.png)
 ***
 
-## Diversity & Inclusion
 
-## Certification
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_dvwGD3CDxz6tQbqFC_1723481833661_completion_certificate.pdf
+
+
+**[Certification]**:[Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_dvwGD3CDxz6tQbqFC_1723481833661_completion_certificate.pdf)
